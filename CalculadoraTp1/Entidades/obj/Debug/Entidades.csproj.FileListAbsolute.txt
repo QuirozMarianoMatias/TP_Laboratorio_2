@@ -1,0 +1,6 @@
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\Entidades\obj\Debug\Entidades.pdb

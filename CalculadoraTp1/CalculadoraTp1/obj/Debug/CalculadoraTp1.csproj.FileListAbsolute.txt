@@ -1,0 +1,13 @@
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\bin\Debug\CalculadoraTp1.exe.config
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\bin\Debug\CalculadoraTp1.exe
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\bin\Debug\CalculadoraTp1.pdb
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.csprojAssemblyReference.cache
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.FormCalculadora.resources
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.Properties.Resources.resources
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.csproj.GenerateResource.cache
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.csproj.CoreCompileInputs.cache
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.exe
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.pdb
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\bin\Debug\Entidades.dll
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\bin\Debug\Entidades.pdb
+C:\Users\Quiroz Family\Desktop\Lab2-TP1\CalculadoraTp1\CalculadoraTp1\obj\Debug\CalculadoraTp1.csproj.CopyComplete
