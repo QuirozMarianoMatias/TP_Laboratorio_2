@@ -22,6 +22,9 @@ namespace CalculadoraTp1
         {
             Limpiar();
         }
+        /// <summary>
+        /// este metodo se encarga de vaciar los controles txtNumero1 , txtNumero1 , cmbOperador y lblResultado
+        /// </summary>
         private void Limpiar ()
         {
             txtNumero1.Clear();
@@ -34,7 +37,13 @@ namespace CalculadoraTp1
         {
             this.Close();
         }
-
+        /// <summary>
+        /// esta funcion se encarga de llamar a las clases Numero y calculara para realizar la operacion entre dos numeros
+        /// </summary>
+        /// <param name="numero1">string que despues se ultilizara para el atributo del objeto</param>
+        /// <param name="numero2">string que despues se ultilizara para el atributo del objeto</param>
+        /// <param name="operador">string que despues se ultilizara para saber el operador</param>
+        /// <returns>retorna el resultado de la operacion entre los dos objetos</returns>
         public static double Operar (string numero1, string numero2,string operador)
         {
             double resultado;
@@ -52,6 +61,20 @@ namespace CalculadoraTp1
           lblResultado.Text =  Operar(txtNumero1.Text, txtNumero2.Text, cmbOperador.Text).ToString();
         }
 
-       
+        private void btnConvertirABinario_Click(object sender, EventArgs e)
+        {
+            Numero binario = new Numero(lblResultado.Text);
+
+            lblResultado.Text = binario.DecimalBinario(lblResultado.Text);
+        }
+
+        private void btnConvertirADecimal_Click(object sender, EventArgs e)
+        { 
+            
+            Numero decimals = new Numero(lblResultado.Text);
+
+            lblResultado.Text = decimals.BinarioDecimal(lblResultado.Text);
+
+        }
     }
 }
