@@ -113,10 +113,10 @@ namespace Entidades
                     return taller;
                 }
             }
-            if (taller.espacioDisponible > 0)
+            if (taller.vehiculos.Count < taller.espacioDisponible)
             {
             taller.vehiculos.Add(vehiculo);
-                taller.espacioDisponible --;
+
             }
             return taller;
         }
